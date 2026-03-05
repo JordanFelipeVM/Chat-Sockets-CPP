@@ -1,0 +1,13 @@
+# Archivos compilados
+build/
+*.exe
+*.o
+*.obj
+
+# Base de datos
+*.db
+*.db-journal
+
+# Configuración personal
+.vscode/
+*.user
